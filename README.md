@@ -6,7 +6,7 @@ Really keen on music and technology.
 Audio engineer, managing a recording studio in a music education center.   
 Carrying out the full range of work related to the production of audio content: preparation for recording, consulting, recording, editing and tuning voices, mixing and advertising production. 
 Proficient in most audio editing software at a professional level.  
-Have also some level of proficiency in Davinci Resolve and can do basic video editing and/or color correction for small projects.
+I also have experience working with Davinci Resolve and can perform basic video editing and color correction for small projects.
 
 Drawn into computer science and software development.  
 My areas of interest are WEB and Cloud technologies: JS/React/Node/Express/MongoDB/AWS/GO.
