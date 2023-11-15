@@ -8,7 +8,7 @@ Carrying out the full range of work related to the production of audio content: 
 Proficient in most audio editing software at a professional level.  
 I also have experience working with Davinci Resolve and can perform basic video editing and color correction for small projects.
 
-Drawn into computer science and software development.  
+I am drawn to computer science and web technologies.
 My areas of interest are WEB and Cloud technologies: JS/React/Node/Express/MongoDB/AWS/GO.
 
 I Love new things learning, understanding the essence, structure information and find patterns in it.
@@ -17,7 +17,7 @@ Enjoying using technology to implement the creative process.
 
 A moderate perfectionist.
 
-Find myself enjoying delving into a range of activities such as social psychology, books, digital photography and video, music, the internet, linguistics, languages, and AI.
+I am interested in a wide range of topics, including social psychology, books, digital photography and video, music, the internet, linguistics, languages, and AI.
 
 
 ### **Software and technologies use:**
