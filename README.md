@@ -20,11 +20,11 @@ A moderate perfectionist.
 I am interested in a wide range of topics, including social psychology, books, digital photography and video, music, the internet, linguistics, languages, and AI.
 
 
-### **Software and technologies use:**
+### **Skills, Software and Technologies use:**
 
 **WEB/Software developments:** Python, JS/NODE, React/Svelte, HTML/CSS, AWS/Netlify, API/Postman, MySQL/MongoDB, Git, Docker, Go.
 
-**Digital Audio/Video production/Photography** Cubase/Nuendo, Logic Pro X, Pro Tools, Ableton Live, Sound Forge/Adobe Audition, REAPER, Bitwig Studio, Adobe Photoshop/Lightroom, FCPX/Davinci Resolve.
+**Digital Audio/Video production/Photography** Cubase/Nuendo, Logic Pro X, Ableton Live,  **Currently:** Bitwig Studio,  REAPER, Pro Tools, Sound Forge/Adobe Audition, Adobe Photoshop/Lightroom, FCPX/Davinci Resolve.
 
 **Time/process organizing:** Trello, Notion.
 
